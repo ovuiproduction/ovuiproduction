@@ -1,6 +1,6 @@
 # I'm Onkar Waghmode  
 
-🚀 **AI & Full-Stack Developer | Research Enthusiast | Cybersecurity Enthusiast**  
+**AI & Full-Stack Developer | Research Enthusiast | Cybersecurity Enthusiast**  
 
 I specialize in building **AI-driven systems**, **scalable full-stack applications**, and **research-focused tools** designed to solve real-world challenges.  
 My core interests include **Machine Learning**, **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG) Systems**, **Generative AI Applications**, and **Cybersecurity**. I am also deeply interested in the foundations of **Operating Systems** and **Computer Networks**, which strengthen my approach to building robust and efficient solutions.  
