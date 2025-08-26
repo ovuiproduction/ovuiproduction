@@ -1,9 +1,13 @@
-# Hi there 👋, I'm Onkar Waghmode  
+# I'm Onkar Waghmode  
 
-🚀 **AI & Full-Stack Developer | Research Enthusiast | Problem Solver**  
+🚀 **AI & Full-Stack Developer | Research Enthusiast | Cybersecurity Enthusiast**  
 
-I’m passionate about building **AI-powered systems**, **scalable full-stack applications**, and solutions that make a real-world impact — from **agritech decision systems for farmers** to **AI research assistants** and **gamified learning platforms**.  
+I specialize in building **AI-driven systems**, **scalable full-stack applications**, and **research-focused tools** designed to solve real-world challenges.  
+My core interests include **Machine Learning**, **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG) Systems**, **Generative AI Applications**, and **Cybersecurity**. I am also deeply interested in the foundations of **Operating Systems** and **Computer Networks**, which strengthen my approach to building robust and efficient solutions.  
 
+I am passionate about leveraging advanced technology to address **social problems and global challenges**. I consider it my duty to contribute towards solving issues that affect humanity by developing **useful, impactful, and sustainable solutions** — making technology a true enabler for a better future.  
+
+Developing technology that protects and empowers humanity — not destroys it
 ---
 
 ## 🔗 Connect with Me
@@ -20,47 +24,6 @@ I’m passionate about building **AI-powered systems**, **scalable full-stack ap
 - 📄 **Research Paper** – Published in *Scopus Journal* [Link](https://doi.org/10.52783/cana.v31.762)  
 - 🧑‍🔬 **Patent Granted** – User-Interactive Animation System for Visualizing Data Structures (2024/09337)  
 - 📝 **Patent Published** – Smart Gear Recommendation System Using IoT (202521004086)  
-
----
-
-## 🚀 Featured Projects  
-
-### 🌾 [Kisan-DSS](https://github.com/ovuiproduction/Kisan-DSS) – *AI-powered Farming Decision Support System*  
-🔹 **Objective:** Helps farmers with crop selection, market insights & government scheme suggestions  
-🔹 **Tech Stack:** React, Flask, Google Gemini API, Random Forest, MongoDB  
-🔹 **Demo Video:** [YouTube](https://youtu.be/TGfO0_ERgDQ)  
-
----
-
-### 📚 [AI-ResearchMate](https://github.com/ovuiproduction/Research-Assistant) – *LLM-powered Research Assistant*  
-🔹 **Objective:** Simplifies academic research, detects & humanizes AI-generated text  
-🔹 **Tech Stack:** Python, FAISS, BART, MongoDB, ArXiv Dataset  
-🔹 **Demo Video:** [YouTube](https://youtu.be/zVt5Ib4r5Y0)  
-
----
-
-### 🎯 [GRE MasterGuide](https://github.com/ovuiproduction/GRE-Vocabulary-Preparation-Guide) – *Gamified GRE Prep Platform*  
-🔹 **Objective:** Makes GRE vocab learning engaging with gamification & AI chatbot support  
-🔹 **Tech Stack:** React, Node.js, MongoDB  
-
----
-
-## 📌 Pinned Projects Showcase  
-
-<p align="center">
-  <a href="https://github.com/ovuiproduction/Kisan-DSS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ovuiproduction&repo=Kisan-DSS&theme=radical" />
-  </a>
-  <a href="https://github.com/ovuiproduction/Research-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ovuiproduction&repo=Research-Assistant&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ovuiproduction/GRE-Vocabulary-Preparation-Guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ovuiproduction&repo=GRE-Vocabulary-Preparation-Guide&theme=radical" />
-  </a>
-</p>
 
 ---
 
@@ -84,8 +47,6 @@ I’m passionate about building **AI-powered systems**, **scalable full-stack ap
 ---
 
 ## 📊 GitHub Stats  
-
-![Onkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovuiproduction&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovuiproduction&layout=compact&theme=radical)  
 
 ---
