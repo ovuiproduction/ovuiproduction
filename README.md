@@ -7,7 +7,10 @@ My core interests include **Machine Learning**, **Natural Language Processing (N
 
 I am passionate about leveraging advanced technology to address **social problems and global challenges**. I consider it my duty to contribute towards solving issues that affect humanity by developing **useful, impactful, and sustainable solutions** — making technology a true enabler for a better future.  
 
-Developing technology that protects and empowers humanity — not destroys it
+<p align="center">
+  <b><i>⚡ Developing technology that protects and empowers humanity — not destroys it ⚡</i></b>
+</p>
+
 
 ---
 
