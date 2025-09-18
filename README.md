@@ -65,8 +65,7 @@ I am passionate about leveraging advanced technology to address **social problem
 ---
 
 ## 📊 GitHub Stats  
-![Top Languages](https://your-app-name.vercel.app/api/top-langs/?username=ovuiproduction&layout=compact&theme=radical
-)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovuiproduction&layout=compact&theme=radical)
 
 ---
 
