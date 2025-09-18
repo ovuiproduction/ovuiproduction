@@ -61,12 +61,6 @@ I am passionate about leveraging advanced technology to address **social problem
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 
-
----
-
-## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovuiproduction&layout=compact&theme=radical)
-
 ---
 
 ⭐️ *“Passionate about solving real-world problems using AI, ML, and Full-Stack Development.”*  
