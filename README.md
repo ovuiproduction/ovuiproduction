@@ -21,13 +21,37 @@ I am passionate about leveraging advanced technology to address **social problem
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements  
 - 🥇 **Finalist** – Barclays Hack-O-Hire 2025  
 - 🌱 **Best Agritech Solution** – National-level Hackathon (Innovation Foundation)  
 - ⭐ **HackerRank 5⭐** – Java & MySQL  
-- 📄 **Research Paper** – Published in *Scopus Journal* [Link](https://doi.org/10.52783/cana.v31.762)  
-- 🧑‍🔬 **Patent Granted** – User-Interactive Animation System for Visualizing Data Structures (2024/09337)  
-- 📝 **Patent Published** – Smart Gear Recommendation System Using IoT (202521004086)  
+
+---
+
+## 📚 Research & 🧑‍🔬 Patents  
+
+- 🧑‍🔬 **Patent Granted** – *User-Interactive Animation System for Visualizing Data Structures* (2024/09337)  
+
+- 📝 **Patent Published** – *Smart Gear Recommendation System Using IoT* (202521004086)
+  
+- 📄 **Research Paper** – *Legal Citation Recommendation System*  
+  [Link](https://mail.ijettjournal.org/archive/ijett-v73i9p119)  
+
+- 📄 **Research Paper** – *Kisan Dhan: Crop Price Prediction Using Random Forest*  
+  [Link](https://doi.org/10.52783/cana.v31.762)  
+
+- 📄 **Research Paper** – *Engineering Graduate Salary Prediction System*  
+  [Link](https://kuey.net/index.php/kuey/article/view/5125)  
+ 
+---
+
+## 📚 Research & 🧑‍🔬 Patents  
+- 📄 **Research Paper** – Legal Citation Recommendation System [Link](https://mail.ijettjournal.org/archive/ijett-v73i9p119)  
+- 📄 **Research Paper** – Kisan Dhan - Crop Price Prediction Using Random Forest [Link](https://doi.org/10.52783/cana.v31.762)
+- 🧑‍🔬 **Patent Granted** – User-Interactive Animation System for Visualizing Data Structures (2024/09337) 
+- 📝 **Patent Published** – Smart Gear Recommendation System Using IoT (202521004086)
+- 📄 **Research Paper** – Engineering Graduate Salary Prediction System [Link](https://kuey.net/index.php/kuey/article/view/5125)
+
 
 ---
 
