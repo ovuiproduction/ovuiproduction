@@ -21,9 +21,10 @@ I am passionate about leveraging advanced technology to address **social problem
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Achievements 
+- 🏆 **State-Level Winners & National Finalists** - OpenAI × NxtWave Buildathon
 - 🥇 **Finalist** – Barclays Hack-O-Hire 2025  
-- 🌱 **Best Agritech Solution** – National-level Hackathon (Innovation Foundation)  
+- 🌱 **Best Agritech Solution** – National-level Hackathon (Techathon 2.0)  
 - ⭐ **HackerRank 5⭐** – Java & MySQL  
 
 ---
